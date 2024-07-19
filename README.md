@@ -1,4 +1,4 @@
-# Yapay-Zeka-Deneyap-Dersleri
+# T3 DENEYAP - YAPAY ZEKA DERSİ
 
 Bu repo, Deneyap Teknoloji Atölyesi yapay zeka dersleri sırasında lise ve ortaokul öğrencilerine anlattığım 8 haftalık aşağıdaki konularla ilgili örnekleri ve ders notlarını içermektedir.
 
@@ -32,6 +32,6 @@ Eğer bu projeyi klonlayacaksanız veya kullanacaksanız, uygun şekilde atıf y
 
 ## İletişim
 
-Herhangi bir sorunuz veya öneriniz varsa, lütfen [e-posta](mailto: hamzas.celiks@gmail.com) yoluyla benimle iletişime geçin.
+Herhangi bir sorunuz veya öneriniz varsa, lütfen [e-posta](mailto:hamzas.celiks@gmail.com) yoluyla benimle iletişime geçin.
 
 ---
